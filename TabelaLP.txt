@@ -1,0 +1,24 @@
+código: 3
+Local da Compra: Rua Sei lá
+Tipo: Blusa
+Marca: Oakley
+Caracteristica: Listrada
+Data de Entrada: 10/09/2021
+Cor: Branco
+valor na Etiqueta: 20.1
+valor Pago: 20.5
+valor Margem: 41.0
+Preco Sugerido 18.0
+------------------------------------------------
+código: 1
+Local da Compra: Rua Sei lá
+Tipo: Blusa
+Marca: Oakley
+Caracteristica: Listrada
+Data de Entrada: 10/09/2021
+Cor: Branco
+valor na Etiqueta: 20.1
+valor Pago: 20.5
+valor Margem: 41.0
+Preco Sugerido 18.0
+------------------------------------------------
